@@ -1,3 +1,10 @@
+<h1 align="center">Hey 👋 Good to see you here</h1>
+<h3 align="center">A Passionate Coder!!</h3>
+
+###
+![Profile views](https://gpvc.arturio.dev/suarabhsuman)
+
+
 <i>A curated list of awesome Github Profile READMEs</i>
 
 <a href="https://github.com/suarabhsuman/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/suarabhsuman/awesome-github-profile-readme" alt="Stars Badge"/></a>
@@ -24,4 +31,4 @@
 <br>
 <br>
 ### Stats for nerds
-![Profile views](https://gpvc.arturio.dev/suarabhsuman)
+
