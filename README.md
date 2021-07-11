@@ -30,5 +30,9 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=suarabhsuman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suarabhsuman&theme=dark&layout=compact&align=right&width=40%)
 <br>
 <br>
-### Stats for nerds
+
+# <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm <a href="https://tonynguyenit18.github.io/">Tony<a> <img width="80" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
+
+
+<div class="tenor-gif-embed" data-postid="12468549" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/smiley-wink-gif-12468549">Smiley Wink GIF</a> from <a href="https://tenor.com/search/smiley-gifs">Smiley GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
